@@ -1,2 +1,3 @@
 你好呀
 现在我在用测试分支写了一句话
+这是 Claude Code 在 worktree-add-branch 分支里写入的一句测试话
